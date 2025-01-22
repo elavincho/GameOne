@@ -27,7 +27,7 @@ function preload() {
   this.load.image("sky", "assets/sky.png");
   this.load.image("ground", "assets/platform2.png");
   this.load.image("ground2", "assets/platform.png");
-  this.load.image("star", "assets/star.png");
+  this.load.image("star", "assets/fantasma.gif");
   this.load.image("bomb", "assets/bomb.png");
   this.load.spritesheet("dude", "assets/dude.png", {
     frameWidth: 32,
@@ -44,12 +44,12 @@ function create() {
   platforms.create(400, 568, "ground").setScale(2).refreshBody();
 
   platforms.create(650, 500, "ground2");
-  platforms.create(30, 450, "ground2");
-  platforms.create(390, 350, "ground2");
+  platforms.create(50, 450, "ground2");
+  platforms.create(370, 350, "ground2");
   platforms.create(760, 220, "ground2");
-  platforms.create(240, 250, "ground2");
-  platforms.create(-50, 140, "ground2");
-  platforms.create(850, 100, "ground2");
+  platforms.create(290, 250, "ground2");
+  platforms.create(0, 140, "ground2");
+  platforms.create(840, 100, "ground2");
 
   player = this.physics.add.sprite(100, 450, "dude");
 
@@ -84,8 +84,8 @@ function create() {
 
   stars = this.physics.add.group({
     key: "star",
-    repeat: 11,
-    setXY: { x: 12, y: 0, stepX: 70 }, //step separa los elementos
+    repeat: 19,
+    setXY: { x: 11, y: 0, stepX: 41 }, //step separa los elementos
   });
 
   stars.children.iterate(function (child) {
