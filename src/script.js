@@ -141,7 +141,7 @@ function collectStar(player, star) {
     var x = player.x < 400 ? Phaser.Math.Between(400, 800) : Phaser.Math.Between(0, 400);
 
     var bomb = bombs.create(x, 16, "bomb");
-    bomb.setBounce(1);
+    bomb.setBounce(1); //Velocidad de la bomba
     bomb.setCollideWorldBounds(true);
     bomb.setVelocity(Phaser.Math.Between(-200, 200), 20);
   }
