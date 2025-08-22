@@ -18,15 +18,15 @@ En este proyecto realicé un **Juego 2D** utilizando el framework de **Phaser**
   
 ## Objetivo del Proyecto
 
-Este proyecto tiene la finalidad de crear un juego 2D utilizando el framework de **Physer** que cuenta son las siguientes caracteristicas:
+Este proyecto tiene la finalidad de crear un juego 2D utilizando el framework de **Physer** que cuenta son las siguientes características:
 
 - Motor de juego flexible para desarrollo web
 - Soporte para sprites, animaciones y físicas
 - Gestión de escenas
-- Carga de imagenes y sonidos
+- Carga de imágenes y sonidos
 - Input multiplataforma (teclado, mouse, touch, etc)
 
-## Imagenes del proyecto
+## Imágenes del proyecto
 
 <img src="https://github.com/elavincho/GameOne/blob/master/assets/img1.png" width="200" height="200" alt="img"/>         <img src="https://github.com/elavincho/GameOne/blob/master/assets/img2.png" width="200" height="200" alt="img"/>
 <img src="https://github.com/elavincho/GameOne/blob/master/assets/img3.png" width="200" height="200" alt="img"/>          <img src="https://github.com/elavincho/GameOne/blob/master/assets/img4.png" width="200" height="200" alt="img"/>
