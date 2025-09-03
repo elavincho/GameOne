@@ -1,3 +1,5 @@
+<img src="https://github.com/elavincho/GameOne/blob/master/assets/fantasma%20-%20copia%20-%20copia.gif" width="80" height="80" alt="img"/>
+
 # Juego 2D - JavaScript + Framework Phaser
 
 En este proyecto realicé un **Juego 2D** utilizando el framework de **Phaser**
