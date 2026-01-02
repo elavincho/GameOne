@@ -32,3 +32,6 @@ Este proyecto tiene la finalidad de crear un juego 2D utilizando el framework de
 
 <img src="https://github.com/elavincho/GameOne/blob/master/assets/img1.png" width="200" height="200" alt="img"/>         <img src="https://github.com/elavincho/GameOne/blob/master/assets/img2.png" width="200" height="200" alt="img"/>
 <img src="https://github.com/elavincho/GameOne/blob/master/assets/img3.png" width="200" height="200" alt="img"/>          <img src="https://github.com/elavincho/GameOne/blob/master/assets/img4.png" width="200" height="200" alt="img"/>
+
+
+
