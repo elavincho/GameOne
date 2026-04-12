@@ -2,7 +2,7 @@
 
 # Juego 2D - JavaScript + Framework Phaser
 
-En este proyecto realicé un **Juego 2D** utilizando el framework de **Phaser**
+En este proyecto realicé un **Juego 2D** utilizando el framework de **Phaser** que es un motor de videojuegos JavaScript que funciona en navegadores web.
 
 ## Tecnologías utilizadas
 
